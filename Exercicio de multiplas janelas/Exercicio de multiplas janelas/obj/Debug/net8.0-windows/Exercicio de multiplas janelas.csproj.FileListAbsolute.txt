@@ -1,0 +1,55 @@
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.exe
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.deps.json
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.runtimeconfig.json
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.Form1.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.GenerateResource.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfoInputs.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfo.cs
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.CoreCompileInputs.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\refint\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.genruntimeconfig.cache
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\ref\Exercicio de multiplas janelas.dll
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarProduto.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.BarPlot.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\cliente.png
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\compra.png
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\fornecedor.png
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\produto.png
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\venda.png
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.Properties.Resources.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarCliente.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarCompra.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarFornecedor.resources
+C:\Users\givanio.melo\Documents\Exercicio de multiplas janelas\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarVenda.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.exe
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\cliente.png
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\compra.png
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\fornecedor.png
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\produto.png
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\imagens\venda.png
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.deps.json
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.runtimeconfig.json
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\bin\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.Form1.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarCliente.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarCompra.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarFornecedor.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarProduto.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.FormCriarVenda.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio_de_multiplas_janelas.Properties.Resources.resources
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.GenerateResource.cache
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfoInputs.cache
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.AssemblyInfo.cs
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.csproj.CoreCompileInputs.cache
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.dll
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\refint\Exercicio de multiplas janelas.dll
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.pdb
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\Exercicio de multiplas janelas.genruntimeconfig.cache
+C:\Users\ivanl\OneDrive\Documentos\Nova pasta\Exercicio de multiplas janelas\obj\Debug\net8.0-windows\ref\Exercicio de multiplas janelas.dll
